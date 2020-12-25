@@ -4,3 +4,6 @@ tmalign_result.txt
 *.pdb
 align.txt
 .vscode
+mkdssp
+TMalign
+.DS_Store
